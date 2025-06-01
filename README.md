@@ -38,7 +38,6 @@ A modern, user-friendly Python application for generating realistic fake data fo
    ```
 
 3. **Requirements**:
-   Create a `requirements.txt` file with:
    ```
    faker
    openpyxl
