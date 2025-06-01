@@ -23,11 +23,6 @@ A modern, user-friendly Python application for generating realistic fake data fo
 *Main Interface (English)*
 ![Main Interface](screenshots/main_interface_en.png)
 
-*Arabic Data Output*
-![Arabic Output](screenshots/arabic_output.png)
-
-*(Note: Add screenshots to the `screenshots/` folder and update paths accordingly.)*
-
 ## Installation
 
 1. **Clone the Repository**:
@@ -82,34 +77,12 @@ A modern, user-friendly Python application for generating realistic fake data fo
   - `generate_fake_data()`: Core function for generating structured data.
   - `FakeDataApp`: Class managing the GUI and user interactions.
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a Pull Request.
-
-Please ensure your code follows PEP 8 guidelines and includes appropriate comments.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Credits
 
 - **Author**: Aaed Hany FarajAllah
 - **GitHub**: [3aed](https://github.com/3aed)
 - **Purpose**: Created for educational purposes, QA testing, and data simulation.
 
-## Future Enhancements
-
-- Add support for more data types (e.g., bank account details, usernames).
-- Expand country-specific ID formats.
-- Include additional languages and locales.
-- Add a preview mode for data before saving.
 
 ---
 
