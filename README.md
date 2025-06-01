@@ -13,7 +13,7 @@ A modern, user-friendly Python application for generating realistic fake data fo
   - Country-Specific IDs (e.g., SSN, IQAMA, CPF, Aadhaar)
 - **Flexible Output**:
   - Display data in a scrollable text area.
-  - Copy generated data to clipboard.
+  - Copy generated data to the clipboard.
   - Save data as TXT, CSV, or Excel files.
 - **Customizable Record Count**: Generate 1 record, a random number (10-15), or a custom amount.
 - **Responsive UI**: Clean and intuitive interface with support for dynamic language and country selection.
@@ -46,7 +46,7 @@ A modern, user-friendly Python application for generating realistic fake data fo
 
 4. **Run the Application**:
    ```bash
-   python Advanced_Fake_Data_Generator.py
+   python Advanced Fake Data Generator.py
    ```
 
 ## Usage
@@ -63,7 +63,7 @@ A modern, user-friendly Python application for generating realistic fake data fo
 
 ## Code Structure
 
-- **Main File**: `Advanced_Fake_Data_Generator.py`
+- **Main File**: `Advanced Fake Data Generator.py`
   - **GUI**: Built with `tkinter`, featuring a responsive interface with comboboxes, radio buttons, and a scrollable text area.
   - **Data Generation**: Uses `Faker` for localized data and custom logic for country-specific phone numbers and IDs.
   - **File Export**: Supports TXT, CSV, and Excel formats using `openpyxl` and `csv`.
